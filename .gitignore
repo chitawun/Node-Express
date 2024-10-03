@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# misc
+.env
+
+# build
+/dist
+
+#log
+/logs
+
+# images
+/public/images
+
+# storage
+/storage/*.key*
